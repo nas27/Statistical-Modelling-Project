@@ -1,0 +1,11 @@
+name,category,closed_bucket,distance,postcode,latitude,longitude,region
+El Tiny Cafe,Coffee Shops,LikelyOpen,26,94703,37.850052,-122.270523,CA
+Las Palmas Super Burritos and Heros,Mexican Restaurants,Unsure,33,94703,37.850052,-122.270523,CA
+The Fat Fish,Fish and Chips Shops,LikelyOpen,41,94703,37.850052,-122.270523,CA
+Washingtown,Laundromats,LikelyOpen,56,94703,37.850193,-122.270387,CA
+Vault Cafe,American Restaurants,LikelyOpen,66,94703,37.849484,-122.271567,CA
+Lemat,Ethiopian Restaurants,Unsure,87,94703,37.850286,-122.271326,CA
+Giin Thai Canteen,Thai Restaurants,LikelyOpen,110,94703,37.849213,-122.271695,CA
+Domino's Pizza,Pizzerias,VeryLikelyOpen,113,94703,37.849278,-122.271698,CA
+Chen's Garden,Cantonese Restaurants,VeryLikelyOpen,119,94703,37.848638,-122.270656,CA
+Rasa Caffe,Cafés,LikelyOpen,141,94703,37.850958,-122.271077,CA
