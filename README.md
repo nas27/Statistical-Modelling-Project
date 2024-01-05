@@ -14,7 +14,8 @@ This project seeks to explore Python for data analytics, utilize APIs effectivel
 Started by checking out the API documentation and tested out a Yelp/Foursquare endpoints.
 
 Ran the below GET req via Postman to confirm working data.
-http://api.citybik.es/v2/networks?fields=EcoBici,name,company
+
+(http://api.citybik.es/v2/networks?fields=EcoBici,name,company)
 
 ### Step 2
 Request data from Foursquare and Yelp and start exploring and cleaning the data.
@@ -39,5 +40,5 @@ Limitations of free API usage - had to wait min 24 hours for request limit to re
 ## Future Goals
 Add more data audit/cleansing
 Create more data visualizations in EDA phase.
-I would explore other APIS i.e. weather APIs and try to derive some more insights.
-Further
+I would explore other APIS i.e. weather APIs and try to further derive insights.
+
