@@ -5,9 +5,9 @@ This project seeks to explore Python for data analytics, utilize APIs effectivel
 
 ### Structure:
 
-./data folder: csv files of dataframes
-./images: png files of data visualizations
-./notebooks: analysis and coding work
+- ./data folder: csv files of dataframes
+- ./images: png files of data visualizations
+- ./notebooks: analysis and coding work
 
 ## Process
 #### Step 1
