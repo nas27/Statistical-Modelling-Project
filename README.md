@@ -1,4 +1,4 @@
-# Final-Project-Statistical-Modelling-with-Python
+# Statistical-Modelling-with-Python
 
 ## Project/Goals
 This project seeks to explore Python for data analytics, utilize APIs effectively, employ data wrangling tactics, exploratory data analysis, visualizations, a regression modelling. I will be further using statistical techniques to interpret and practice using Pandas and Numpy.
